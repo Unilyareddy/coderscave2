@@ -1,0 +1,19 @@
+/* Reset default margin and padding */
+* {
+    margin: 10;
+    padding: 0;
+}
+
+}
+
+/* Style headings and paragraph within the about section */
+#about h2 {
+    font-size: 20px;
+    color: #080909;
+}
+
+#about p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #217c08;
+}
